@@ -2,7 +2,7 @@
 
 ### 🎓 Engineering Student | Data Science & AI Enthusiast | Software Developer
 
-I'm a first-year engineering student in **Computer Science and Systems Management (IMS)** at **ESITH, Casablanca, Morocco**.
+I'm a second-year engineering student in **Computer Science and Systems Management (IMS)** at **ESITH, Casablanca, Morocco**.
 
 I'm passionate about **Artificial Intelligence, Machine Learning, and Data Science**, with a particular interest in applying intelligent technologies to real-world industrial challenges, especially in the textile and manufacturing sectors.
 
