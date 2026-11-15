@@ -70,17 +70,7 @@ A web-based industrial monitoring application designed to digitalize production 
 
 **Tech Stack:** Python, Flask, Scikit-learn, Random Forest, SHAP, Pandas, NumPy.
 
-### 🤖 AI Helpdesk Chatbot
 
-An intelligent chatbot combining Large Language Models and Retrieval-Augmented Generation to provide contextual answers.
-
-- RAG architecture for knowledge-based question answering.
-- React frontend and FastAPI backend.
-- PostgreSQL and Redis integration.
-- Vector databases: Chroma / Qdrant.
-- Multiple LLM providers with automatic fallback.
-
-**Tech Stack:** Python, FastAPI, React, PostgreSQL, Redis, RAG, Chroma, Qdrant, LLMs.
 
 ### [📦 StockIMS — Inventory Management System](https://github.com/salmanesh212/stockims)
 
