@@ -10,6 +10,9 @@ I enjoy building projects that combine data, AI, and software engineering to sol
 
 ---
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-salmane-shame-b3159b318/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmane.shame27@gmail.com)
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages
